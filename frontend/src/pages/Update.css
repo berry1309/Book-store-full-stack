@@ -1,0 +1,14 @@
+.book {
+    background-color:#201607;
+}
+
+.upda{
+    outline:none;
+    border:1px solid rgb(72, 49, 34);
+    background-color: rgb(128, 89, 63);
+    padding:5px 20px 5px 20px;
+    color:white;
+    font-size:18px;
+    border-radius: 20px;
+    font-family: Garamond;
+}

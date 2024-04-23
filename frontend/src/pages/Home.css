@@ -1,0 +1,29 @@
+.Home-Page {
+    width: 100%;
+    min-height: 91vh;
+    max-height: auto;
+    background-color:#201607;
+    
+}
+
+.homeimg {
+    width: 500px;
+    height: 600px;
+}
+
+.viewBook {
+    text-decoration: none;
+    font-Family:Garamond;
+    background-color: rgb(126, 85, 54);
+
+}
+
+.viewBook:hover {
+color: rgb(77, 44, 11);
+font-weight: bold;
+} 
+
+.carousel-inner {
+    width: 700px;
+    height: 900px;
+}
